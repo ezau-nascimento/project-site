@@ -14,6 +14,6 @@ main{
     width: 500px;
     margin: auto; /* auto = deixar no meio */
     padding: 10px; /* padding = não deixar colado */
-    box-shadow: 3px 3px 5px black;
+    box-shadow: 2px 2px 5px black;
 
 }
